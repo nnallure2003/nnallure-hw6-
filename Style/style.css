@@ -1,0 +1,14 @@
+.style {
+    background-color: #f0f0f0; 
+    border: 2px solid #000; 
+    padding: 20px; 
+    text-align: center;
+    margin: 20px 0;
+}
+
+.style p {
+    color: rgb(152, 55, 55);
+    font-size: 24px; 
+    font-family: 'Arial', sans-serif; 
+    font-weight: bold;
+}
